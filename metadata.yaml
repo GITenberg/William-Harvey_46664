@@ -1,15 +1,16 @@
 _repo: William-Harvey_46664
+_version: 0.1.0
 covers:
-- cover_type: archival
-  image_path: 46664/46664-h/images/i_title.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Powers, D'Arcy
     gutenberg_agent_id: '43896'
     url: http://www.gutenberg.org/2009/agents/43896
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46664#William-Harvey
 gutenberg_issued: '2014-08-23'
 gutenberg_type: Text
 identifiers:
